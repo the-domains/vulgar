@@ -1,0 +1,14 @@
+layout_spectrum: 0.9841603
+typography_spectrum: 0.3235001
+color:
+  saturation: 0.0663567
+  lightness: 0.3864098
+  brandStrength: 0.975264
+  rhythmicContrast: 0.5835289
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: vulgar
